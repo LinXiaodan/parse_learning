@@ -1,1 +1,0 @@
-echo_supervisord_conf > supervisord.conf

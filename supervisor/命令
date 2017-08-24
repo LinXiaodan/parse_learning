@@ -1,0 +1,7 @@
+echo_supervisord_conf > supervisord.conf
+
+supervisord -c supervisord.conf
+
+supervisorctl
+
+
